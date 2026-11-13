@@ -1,0 +1,194 @@
+{
+  "format": "wahldaten-index-v2",
+  "elections": [
+    {
+      "id": "de-mv-lt-2026",
+      "name": "Wahl zum Landtag von Mecklenburg-Vorpommern am 20. September 2026",
+      "shortname": "Landtagswahl MV 2026",
+      "type": "Landtag",
+      "location": "Mecklenburg-Vorpommern",
+      "year": 2026,
+      "country": "DE",
+      "heldOn": "2026-09-20",
+      "quality": "endgültig",
+      "asOf": "2026-09-30",
+      "status": "übernommen",
+      "href": "/v1/de-mv-lt-2026/index.json",
+      "gebietssuche": {
+        "stand": "teilweise",
+        "wahlkreise": 36,
+        "mitAlternativdaten": 36,
+        "anteil": 100,
+        "durchsucht": 36,
+        "durchsuchtAnteil": 100,
+        "wahlscheinEligible": {
+          "stand": "teilweise",
+          "vorhanden": 451,
+          "von": 1974
+        },
+        "wahlscheinVoters": {
+          "stand": "teilweise",
+          "vorhanden": 830,
+          "von": 1974
+        },
+        "note": "Gesucht in den Kreisen und kreisfreien Städten. 36 von 36 Wahlkreisen haben eine zweite Datei, die geprüft wurde, mit oder ohne Konflikt. Die Bekanntmachung des Kreiswahlleiters Nordwestmecklenburg vom 24.09.2026 ist geprüft; sie nennt die Wahlkreissumme, nicht die Bezirke. Die übernommene Zahl ist das endgültige Ergebnis, festgestellt am 30.09.2026. Die vorläufige Fassung vom 21.09.2026, 00:01:10 Uhr, bleibt als Kopie liegen.",
+        "gemeindenMitSchlussel": 799
+      },
+      "prozentHuerde": {
+        "prozent": 5,
+        "von": "zweit"
+      }
+    },
+    {
+      "id": "de-be-agh-2026",
+      "name": "Wahl zum 20. Abgeordnetenhaus von Berlin am 20. September 2026",
+      "shortname": "Abgeordnetenhauswahl Berlin 2026",
+      "type": "Abgeordnetenhaus",
+      "location": "Berlin",
+      "year": 2026,
+      "country": "DE",
+      "heldOn": "2026-09-20",
+      "quality": "endgültig",
+      "asOf": "2026-10-12",
+      "status": "übernommen",
+      "href": "/v1/de-be-agh-2026/index.json",
+      "gebietssuche": {
+        "stand": "gesucht-leer",
+        "wahlkreise": 78,
+        "mitAlternativdaten": 0,
+        "anteil": 0,
+        "durchsucht": 78,
+        "durchsuchtAnteil": 100,
+        "wahlscheinEligible": {
+          "stand": "vollstaendig",
+          "vorhanden": 4114,
+          "von": 4114
+        },
+        "wahlscheinVoters": {
+          "stand": "vollstaendig",
+          "vorhanden": 4114,
+          "von": 4114
+        },
+        "note": "Am 08.10.2026 bei allen zwölf Bezirksämtern und beim Landeswahlleiter gesucht. Eine zweite Zählliste zur Abgeordnetenhauswahl lag nicht vor. Steglitz-Zehlendorf veröffentlicht Termine von Neuauszählungen am 23. und 24.09.2026, keine Stimmen. Die Bezirksverordnetenversammlung und die U16-Wahl sind andere Wahlen und wurden nicht übernommen. Presse und WABEO geben die Landesdatei wieder und sind keine zweite Quelle.",
+        "gemeindenMitSchlussel": 0
+      },
+      "prozentHuerde": {
+        "prozent": 5,
+        "von": "zweit"
+      }
+    },
+    {
+      "id": "de-st-lt-2026",
+      "name": "Wahl zum Landtag von Sachsen-Anhalt am 6. September 2026",
+      "shortname": "Landtagswahl Sachsen-Anhalt 2026",
+      "type": "Landtag",
+      "location": "Sachsen-Anhalt",
+      "year": 2026,
+      "country": "DE",
+      "heldOn": "2026-09-06",
+      "quality": "endgültig",
+      "asOf": "2026-09-22",
+      "status": "übernommen",
+      "href": "/v1/de-st-lt-2026/index.json",
+      "gebietssuche": {
+        "stand": "teilweise",
+        "wahlkreise": 41,
+        "mitAlternativdaten": 28,
+        "anteil": 68.3,
+        "durchsucht": 41,
+        "durchsuchtAnteil": 100,
+        "wahlscheinEligible": {
+          "stand": "nicht-geliefert",
+          "vorhanden": 0,
+          "von": 2661
+        },
+        "wahlscheinVoters": {
+          "stand": "nicht-geliefert",
+          "vorhanden": 0,
+          "von": 2661
+        },
+        "note": "Alle 41 Wahlkreise sind durchsucht, auch die Kreise und Gemeinden. 28 haben eine geprüfte zweite Datei. Die amtliche Zahl bleibt die der Landesdatei. In den übrigen 13 Wahlkreisen lag keine zweite Zahl, die sich eindeutig lesen ließ, oder die Kreiswahlleitung nennt keinen Eingang.",
+        "gemeindenMitSchlussel": 218
+      },
+      "prozentHuerde": {
+        "prozent": 5,
+        "von": "zweit"
+      }
+    },
+    {
+      "id": "de-bt-2025",
+      "name": "Wahl zum 21. Deutschen Bundestag am 23. Februar 2025",
+      "shortname": "Bundestagswahl Deutschland 2025",
+      "type": "Bundestag",
+      "location": "Deutschland",
+      "year": 2025,
+      "country": "DE",
+      "heldOn": "2025-02-23",
+      "quality": "endgültig",
+      "asOf": "2025-03-14T10:50",
+      "status": "übernommen",
+      "href": "/v1/de-bt-2025/index.json",
+      "gebietssuche": {
+        "stand": "teilweise",
+        "wahlkreise": 299,
+        "mitAlternativdaten": 274,
+        "anteil": 91.6,
+        "durchsucht": 299,
+        "durchsuchtAnteil": 100,
+        "wahlscheinEligible": {
+          "stand": "vollstaendig",
+          "vorhanden": 95111,
+          "von": 95111
+        },
+        "wahlscheinVoters": {
+          "stand": "vollstaendig",
+          "vorhanden": 95111,
+          "von": 95111
+        },
+        "note": "Geprüft wurden die Wahlbezirks- und Wahlkreisdateien der Länder, soweit sie absolute Stimmen trennen: Schleswig-Holstein und Hamburg beim Statistikamt Nord, Niedersachsen beim Landesamt für Statistik, Nordrhein-Westfalen bei der Landeswahlleiterin, Mecklenburg-Vorpommern beim Landeswahlleiter, Sachsen beim Statistischen Landesamt und bei der Stadt Dresden, Berlin und Brandenburg beim Amt für Statistik Berlin-Brandenburg, Baden-Württemberg auf der Wahlsonderseite, Bayern beim Landeswahlleiter und in 13 AKDB-Dateien, dazu VoteManager über WABEO vom 27.02.2025. Die Bundeszahl bleibt. Rheinland-Pfalz hat eine Wahlbezirksmappe, deren Schlüssel sich nicht sicher trennen lässt; daraus keine Zahl. Bremen ohne Datei, Hessen nur nach Anmeldung, Thüringen nur als HTML. Wahlscheine an einem Wahlkreis nur, wo die zweite Quelle das ganze Gebiet deckt."
+      },
+      "prozentHuerde": {
+        "prozent": 5,
+        "von": "zweit",
+        "ausnahme": "nationale Minderheiten"
+      }
+    },
+    {
+      "id": "de-eu-2024",
+      "name": "10. Wahl zum Europäischen Parlament aus der Bundesrepublik Deutschland am 9. Juni 2024",
+      "shortname": "Europawahl Deutschland 2024",
+      "type": "Europawahl",
+      "location": "Deutschland",
+      "year": 2024,
+      "country": "DE",
+      "heldOn": "2024-06-09",
+      "quality": "endgültig",
+      "asOf": "2024-07-03T11:54",
+      "status": "übernommen",
+      "href": "/v1/de-eu-2024/index.json",
+      "gebietssuche": {
+        "stand": "teilweise",
+        "wahlkreise": 0,
+        "mitAlternativdaten": 0,
+        "anteil": null,
+        "durchsucht": 0,
+        "durchsuchtAnteil": null,
+        "wahlscheinEligible": {
+          "stand": "vollstaendig",
+          "vorhanden": 91753,
+          "von": 91753
+        },
+        "wahlscheinVoters": {
+          "stand": "vollstaendig",
+          "vorhanden": 91753,
+          "von": 91753
+        },
+        "note": "Es gibt keine Wahlkreise. wahlkreise, mitAlternativdaten und durchsucht bleiben 0. 194 Kreise haben eine zweite Datei mit absoluten Stimmen: Bayern 96, Nordrhein-Westfalen 53, Niedersachsen 45. Die Bundeszahl bleibt. Schleswig-Holstein ist gesichert, ohne Zahl. Die übrigen Länder sind hier nicht mit einer zweiten Datei belegt. Nicht jede Kreisseite ist geöffnet."
+      },
+      "prozentHuerde": {
+        "prozent": null,
+        "von": null
+      }
+    }
+  ]
+}
